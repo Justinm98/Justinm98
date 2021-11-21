@@ -1,6 +1,26 @@
-- 👋 Hi, I’m Justin Maloney
+# 👋 Hi, I’m Justin Maloney
 
-<!---
-Justinm98/Justinm98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Education
+
+I have a B.S. in Computer Science from Virginia Tech and a A.S. in Computer Science from Virginia Western Community college.
+
+## Career and Experience 
+
+I currently work for Lockheed Martin as an Associate Software Engineer in Lockheed Martin's space program.
+
+### Languages 
+- C# 
+- JavaScript/TypeScript
+- Java
+- C
+- Python
+- Swift
+- SQL
+- HTML/CSS
+### Technologies/Frameworks
+- .NET Core
+- WPF
+- Angular
+- Docker
+- Flask
+- SwiftUI
