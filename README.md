@@ -1,26 +1,9 @@
-# 👋 Hi, I’m Justin Maloney
+# Justin Maloney
 
-## Education
+**Software Engineer** • Full-Stack • DevSecOps • .NET & Web  
+📧 justin.c.maloney@proton.me 
+🔗 [LinkedIn](https://linkedin.com/in/justin-maloney-59ba06192)  
 
-I have a B.S. in Computer Science from Virginia Tech and a A.S. in Computer Science from Virginia Western Community college.
+---
 
-## Career and Experience 
-
-I currently work for Lockheed Martin as an Associate Software Engineer in Lockheed Martin's space program.
-
-### Languages 
-- C# 
-- JavaScript/TypeScript
-- Java
-- C
-- Python
-- Swift
-- SQL
-- HTML/CSS
-### Technologies/Frameworks
-- .NET Core
-- WPF
-- Angular
-- Docker
-- Flask
-- SwiftUI
+Open to interesting problems in cloud-native development, DevSecOps, .NET, containers, and full-stack web/mobile.
